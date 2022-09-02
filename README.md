@@ -1,2 +1,2 @@
-# cpm-sdk
-Cubic Package Manager SDK
+# CPM
+Cubic Package Manager
